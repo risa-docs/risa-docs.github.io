@@ -26,7 +26,6 @@ var NAVTREE =
 [
   [ "RISA", "index.html", [
     [ "GLADOS - Generic Library for Asynchronous Data Operations and Streaming", "md_glados__r_e_a_d_m_e.html", null ],
-    [ "README", "md__r_e_a_d_m_e.html", null ],
     [ "Configuration", "md__configuration.html", null ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
