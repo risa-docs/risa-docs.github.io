@@ -1,13 +1,13 @@
 <map id="glados/include/glados/bits/memory_location.h" name="glados/include/glados/bits/memory_location.h">
-<area shape="rect" id="node1" title=" " alt="" coords="329,5,509,47"/>
-<area shape="rect" id="node2" href="$device__allocator_8h.html" title=" " alt="" coords="5,184,213,225"/>
-<area shape="rect" id="node3" href="$host__allocator_8h.html" title=" " alt="" coords="243,184,437,225"/>
-<area shape="rect" id="node4" href="$memcpy__direction_8h.html" title=" " alt="" coords="382,95,605,136"/>
-<area shape="rect" id="node5" href="$sync__policy_8h.html" title=" " alt="" coords="511,184,673,225"/>
-<area shape="rect" id="node10" href="$unique__ptr_8h.html" title=" " alt="" coords="137,95,308,136"/>
-<area shape="rect" id="node11" href="$allocator_8h.html" title=" " alt="" coords="679,95,841,136"/>
-<area shape="rect" id="node6" href="$cuda__copy_8t_8cu.html" title=" " alt="" coords="185,281,378,307"/>
-<area shape="rect" id="node7" href="$cuda__fill_8t_8cu.html" title=" " alt="" coords="403,281,584,307"/>
-<area shape="rect" id="node8" href="$cuda__pool__allocator_8t_8cu.html" title=" " alt="" coords="609,273,773,315"/>
-<area shape="rect" id="node9" href="$cuda__uninitialized_8t_8cu.html" title=" " alt="" coords="797,281,1041,307"/>
+<area shape="rect" id="node1" title=" " alt="" coords="305,5,463,47"/>
+<area shape="rect" id="node2" href="$device__allocator_8h.html" title=" " alt="" coords="5,184,192,225"/>
+<area shape="rect" id="node3" href="$host__allocator_8h.html" title=" " alt="" coords="222,184,397,225"/>
+<area shape="rect" id="node4" href="$memcpy__direction_8h.html" title=" " alt="" coords="353,95,551,136"/>
+<area shape="rect" id="node5" href="$sync__policy_8h.html" title=" " alt="" coords="468,184,615,225"/>
+<area shape="rect" id="node10" href="$unique__ptr_8h.html" title=" " alt="" coords="125,95,278,136"/>
+<area shape="rect" id="node11" href="$allocator_8h.html" title=" " alt="" coords="625,95,772,136"/>
+<area shape="rect" id="node6" href="$cuda__copy_8t_8cu.html" title=" " alt="" coords="171,281,347,307"/>
+<area shape="rect" id="node7" href="$cuda__fill_8t_8cu.html" title=" " alt="" coords="371,281,533,307"/>
+<area shape="rect" id="node8" href="$cuda__pool__allocator_8t_8cu.html" title=" " alt="" coords="557,273,707,315"/>
+<area shape="rect" id="node9" href="$cuda__uninitialized_8t_8cu.html" title=" " alt="" coords="731,281,947,307"/>
 </map>

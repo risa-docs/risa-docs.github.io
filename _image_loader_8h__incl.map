@@ -1,20 +1,20 @@
 <map id="glados/include/glados/ImageLoader.h" name="glados/include/glados/ImageLoader.h">
-<area shape="rect" id="node1" title=" " alt="" coords="15,5,178,47"/>
-<area shape="rect" id="node2" title=" " alt="" coords="28,169,98,196"/>
-<area shape="rect" id="node3" title=" " alt="" coords="98,244,175,271"/>
-<area shape="rect" id="node4" title=" " alt="" coords="100,95,159,121"/>
-<area shape="rect" id="node5" href="$_image_8h.html" title=" " alt="" coords="410,95,484,121"/>
-<area shape="rect" id="node6" href="$_memory_pool_8h.html" title=" " alt="" coords="741,169,857,196"/>
-<area shape="rect" id="node8" title=" " alt="" coords="943,244,1095,271"/>
-<area shape="rect" id="node13" title=" " alt="" coords="174,169,259,196"/>
-<area shape="rect" id="node14" title=" " alt="" coords="283,169,350,196"/>
-<area shape="rect" id="node15" title=" " alt="" coords="374,169,438,196"/>
-<area shape="rect" id="node16" title=" " alt="" coords="462,169,517,196"/>
-<area shape="rect" id="node17" title=" " alt="" coords="541,169,633,196"/>
-<area shape="rect" id="node18" title=" " alt="" coords="657,169,717,196"/>
-<area shape="rect" id="node7" href="$_singleton_8h.html" title=" " alt="" coords="370,244,465,271"/>
-<area shape="rect" id="node9" title=" " alt="" coords="489,244,632,271"/>
-<area shape="rect" id="node10" title=" " alt="" coords="656,244,742,271"/>
-<area shape="rect" id="node11" title=" " alt="" coords="767,244,831,271"/>
-<area shape="rect" id="node12" title=" " alt="" coords="856,244,918,271"/>
+<area shape="rect" id="node1" title=" " alt="" coords="19,5,166,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="28,169,93,196"/>
+<area shape="rect" id="node3" title=" " alt="" coords="97,244,165,271"/>
+<area shape="rect" id="node4" title=" " alt="" coords="98,95,153,121"/>
+<area shape="rect" id="node5" href="$_image_8h.html" title=" " alt="" coords="386,95,454,121"/>
+<area shape="rect" id="node6" href="$_memory_pool_8h.html" title=" " alt="" coords="694,169,798,196"/>
+<area shape="rect" id="node8" title=" " alt="" coords="882,244,1017,271"/>
+<area shape="rect" id="node13" title=" " alt="" coords="168,169,243,196"/>
+<area shape="rect" id="node14" title=" " alt="" coords="267,169,328,196"/>
+<area shape="rect" id="node15" title=" " alt="" coords="353,169,410,196"/>
+<area shape="rect" id="node16" title=" " alt="" coords="435,169,486,196"/>
+<area shape="rect" id="node17" title=" " alt="" coords="510,169,592,196"/>
+<area shape="rect" id="node18" title=" " alt="" coords="617,169,669,196"/>
+<area shape="rect" id="node7" href="$_singleton_8h.html" title=" " alt="" coords="353,244,440,271"/>
+<area shape="rect" id="node9" title=" " alt="" coords="464,244,590,271"/>
+<area shape="rect" id="node10" title=" " alt="" coords="615,244,692,271"/>
+<area shape="rect" id="node11" title=" " alt="" coords="717,244,774,271"/>
+<area shape="rect" id="node12" title=" " alt="" coords="799,244,858,271"/>
 </map>

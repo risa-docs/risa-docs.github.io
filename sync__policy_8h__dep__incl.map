@@ -1,7 +1,7 @@
 <map id="glados/include/glados/cuda/sync_policy.h" name="glados/include/glados/cuda/sync_policy.h">
-<area shape="rect" id="node1" title=" " alt="" coords="331,5,494,47"/>
-<area shape="rect" id="node2" href="$cuda__copy_8t_8cu.html" title=" " alt="" coords="5,102,199,129"/>
-<area shape="rect" id="node3" href="$cuda__fill_8t_8cu.html" title=" " alt="" coords="223,102,405,129"/>
-<area shape="rect" id="node4" href="$cuda__pool__allocator_8t_8cu.html" title=" " alt="" coords="429,95,593,136"/>
-<area shape="rect" id="node5" href="$cuda__uninitialized_8t_8cu.html" title=" " alt="" coords="617,102,861,129"/>
+<area shape="rect" id="node1" title=" " alt="" coords="303,5,449,47"/>
+<area shape="rect" id="node2" href="$cuda__copy_8t_8cu.html" title=" " alt="" coords="5,102,181,129"/>
+<area shape="rect" id="node3" href="$cuda__fill_8t_8cu.html" title=" " alt="" coords="206,102,367,129"/>
+<area shape="rect" id="node4" href="$cuda__pool__allocator_8t_8cu.html" title=" " alt="" coords="392,95,541,136"/>
+<area shape="rect" id="node5" href="$cuda__uninitialized_8t_8cu.html" title=" " alt="" coords="565,102,781,129"/>
 </map>

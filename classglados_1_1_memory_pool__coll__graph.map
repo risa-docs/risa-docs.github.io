@@ -1,5 +1,5 @@
 <map id="glados::MemoryPool&lt; MemoryManager &gt;" name="glados::MemoryPool&lt; MemoryManager &gt;">
-<area shape="rect" id="node1" title="This class acts as a Memory pool and initializes memory at program initialization." alt="" coords="167,95,329,136"/>
-<area shape="rect" id="node2" href="$classglados_1_1_singleton.html" title=" " alt="" coords="5,5,269,47"/>
-<area shape="rect" id="node3" title=" " alt="" coords="293,13,427,39"/>
+<area shape="rect" id="node1" title="This class acts as a Memory pool and initializes memory at program initialization." alt="" coords="147,95,287,136"/>
+<area shape="rect" id="node2" href="$classglados_1_1_singleton.html" title=" " alt="" coords="5,5,232,47"/>
+<area shape="rect" id="node3" title=" " alt="" coords="257,13,375,39"/>
 </map>

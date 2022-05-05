@@ -1,10 +1,10 @@
 var unique__ptr_8h =
 [
-    [ "device_deleter", "structglados_1_1cuda_1_1device__deleter.html", "structglados_1_1cuda_1_1device__deleter" ],
-    [ "host_deleter", "structglados_1_1cuda_1_1host__deleter.html", "structglados_1_1cuda_1_1host__deleter" ],
-    [ "unique_ptr", "classglados_1_1cuda_1_1unique__ptr.html", null ],
-    [ "unique_ptr< T, Deleter, true, loc, false >", "classglados_1_1cuda_1_1unique__ptr_3_01_t_00_01_deleter_00_01true_00_01loc_00_01false_01_4.html", "classglados_1_1cuda_1_1unique__ptr_3_01_t_00_01_deleter_00_01true_00_01loc_00_01false_01_4" ],
-    [ "unique_ptr< T, Deleter, false, loc, pinned >", "classglados_1_1cuda_1_1unique__ptr_3_01_t_00_01_deleter_00_01false_00_01loc_00_01pinned_01_4.html", "classglados_1_1cuda_1_1unique__ptr_3_01_t_00_01_deleter_00_01false_00_01loc_00_01pinned_01_4" ],
+    [ "glados::cuda::device_deleter", "structglados_1_1cuda_1_1device__deleter.html", "structglados_1_1cuda_1_1device__deleter" ],
+    [ "glados::cuda::host_deleter", "structglados_1_1cuda_1_1host__deleter.html", "structglados_1_1cuda_1_1host__deleter" ],
+    [ "glados::cuda::unique_ptr< T, Deleter, pitched, loc, pinned >", "classglados_1_1cuda_1_1unique__ptr.html", null ],
+    [ "glados::cuda::unique_ptr< T, Deleter, true, loc, false >", "classglados_1_1cuda_1_1unique__ptr_3_01_t_00_01_deleter_00_01true_00_01loc_00_01false_01_4.html", "classglados_1_1cuda_1_1unique__ptr_3_01_t_00_01_deleter_00_01true_00_01loc_00_01false_01_4" ],
+    [ "glados::cuda::unique_ptr< T, Deleter, false, loc, pinned >", "classglados_1_1cuda_1_1unique__ptr_3_01_t_00_01_deleter_00_01false_00_01loc_00_01pinned_01_4.html", "classglados_1_1cuda_1_1unique__ptr_3_01_t_00_01_deleter_00_01false_00_01loc_00_01pinned_01_4" ],
     [ "device_ptr", "unique__ptr_8h.html#a319ba8be4e385f15bec665b7fd016cd3", null ],
     [ "host_ptr", "unique__ptr_8h.html#a315fb91361d28bd5c867237c6faa86d2", null ],
     [ "pinned_host_ptr", "unique__ptr_8h.html#a8ee4821a9b928ad236ffa46fa512eb2b", null ],

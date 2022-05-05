@@ -1,7 +1,7 @@
 <map id="glados::Observer" name="glados::Observer">
-<area shape="rect" id="node1" title=" " alt="" coords="5,78,137,105"/>
-<area shape="rect" id="node2" href="$classglados_1_1pipeline_1_1_generic_stage.html" title=" " alt="" coords="185,71,368,112"/>
-<area shape="rect" id="node3" href="$classglados_1_1pipeline_1_1_sink_stage.html" title=" " alt="" coords="416,5,615,47"/>
-<area shape="rect" id="node4" href="$classglados_1_1pipeline_1_1_source_stage.html" title=" " alt="" coords="427,71,604,112"/>
-<area shape="rect" id="node5" href="$classglados_1_1pipeline_1_1_stage.html" title=" " alt="" coords="430,136,601,177"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,78,124,105"/>
+<area shape="rect" id="node2" href="$classglados_1_1pipeline_1_1_generic_stage.html" title=" " alt="" coords="172,71,333,112"/>
+<area shape="rect" id="node3" href="$classglados_1_1pipeline_1_1_sink_stage.html" title=" " alt="" coords="381,5,557,47"/>
+<area shape="rect" id="node4" href="$classglados_1_1pipeline_1_1_source_stage.html" title=" " alt="" coords="391,71,548,112"/>
+<area shape="rect" id="node5" href="$classglados_1_1pipeline_1_1_stage.html" title=" " alt="" coords="394,136,545,177"/>
 </map>

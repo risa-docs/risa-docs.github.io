@@ -24,5 +24,21 @@ var namespaceglados =
     [ "Queue", "classglados_1_1_queue.html", "classglados_1_1_queue" ],
     [ "Singleton", "classglados_1_1_singleton.html", "classglados_1_1_singleton" ],
     [ "Subject", "classglados_1_1_subject.html", "classglados_1_1_subject" ],
-    [ "Volume", "classglados_1_1_volume.html", "classglados_1_1_volume" ]
+    [ "Volume", "classglados_1_1_volume.html", "classglados_1_1_volume" ],
+    [ "memory_layout", "namespaceglados.html#a21e4db2fed5b036ac73ad3e5b1610575", [
+      [ "pointer_1D", "namespaceglados.html#a21e4db2fed5b036ac73ad3e5b1610575af33c1396f6038d159e5c04f60988f601", null ],
+      [ "pointer_2D", "namespaceglados.html#a21e4db2fed5b036ac73ad3e5b1610575a245b97d494e1d332431866fe74412b9e", null ],
+      [ "pointer_3D", "namespaceglados.html#a21e4db2fed5b036ac73ad3e5b1610575a9fde599c73bbdb07b598214bcd9166e5", null ]
+    ] ],
+    [ "memory_location", "namespaceglados.html#a301cecaa5033a5188d3ae2de89afb1ca", [
+      [ "host", "namespaceglados.html#a301cecaa5033a5188d3ae2de89afb1caa67b3dba8bc6778101892eb77249db32e", null ],
+      [ "device", "namespaceglados.html#a301cecaa5033a5188d3ae2de89afb1caa913f9c49dcb544e2087cee284f4a00b7", null ]
+    ] ],
+    [ "operator!=", "namespaceglados.html#a2efff7bc18548307908d5db4c60b3510", null ],
+    [ "operator!=", "namespaceglados.html#acae10fced399ceae06c29403fff771fa", null ],
+    [ "operator!=", "namespaceglados.html#a232da0055693d369b2fe872cf811fd46", null ],
+    [ "operator==", "namespaceglados.html#aec824f87db5a430733b45ebbce18bc5a", null ],
+    [ "operator==", "namespaceglados.html#a56838f5a237d70eb382dc9323f9e9bf4", null ],
+    [ "operator==", "namespaceglados.html#a74ffb84b420b9840f07330c7415d0e83", null ],
+    [ "queue_limit", "namespaceglados.html#ad87e2011e039cfa353edf3310c25c7e9", null ]
 ];

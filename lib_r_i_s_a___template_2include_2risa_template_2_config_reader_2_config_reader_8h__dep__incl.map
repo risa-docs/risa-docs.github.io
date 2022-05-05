@@ -1,6 +1,6 @@
 <map id="libRISA_Template/include/risaTemplate/ConfigReader/ConfigReader.h" name="libRISA_Template/include/risaTemplate/ConfigReader/ConfigReader.h">
-<area shape="rect" id="node1" title=" " alt="" coords="269,5,471,61"/>
-<area shape="rect" id="node2" href="$_template___processor_8cu.html" title=" " alt="" coords="5,109,244,151"/>
-<area shape="rect" id="node3" href="$_template___sink_8cu.html" title=" " alt="" coords="268,109,472,151"/>
-<area shape="rect" id="node4" href="$_template___source_8cu.html" title=" " alt="" coords="496,109,716,151"/>
+<area shape="rect" id="node1" title=" " alt="" coords="254,5,437,61"/>
+<area shape="rect" id="node2" href="$_template___processor_8cu.html" title=" " alt="" coords="5,109,227,151"/>
+<area shape="rect" id="node3" href="$_template___sink_8cu.html" title=" " alt="" coords="251,109,439,151"/>
+<area shape="rect" id="node4" href="$_template___source_8cu.html" title=" " alt="" coords="464,109,667,151"/>
 </map>

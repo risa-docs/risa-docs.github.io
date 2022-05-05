@@ -1,7 +1,7 @@
 <map id="glados/include/glados/bits/memory_layout.h" name="glados/include/glados/bits/memory_layout.h">
-<area shape="rect" id="node1" title=" " alt="" coords="323,5,493,47"/>
-<area shape="rect" id="node2" href="$pool__allocator_8h.html" title=" " alt="" coords="5,95,168,136"/>
-<area shape="rect" id="node3" href="$device__allocator_8h.html" title=" " alt="" coords="192,95,400,136"/>
-<area shape="rect" id="node4" href="$host__allocator_8h.html" title=" " alt="" coords="425,95,618,136"/>
-<area shape="rect" id="node5" href="$allocator_8h.html" title=" " alt="" coords="643,95,805,136"/>
+<area shape="rect" id="node1" title=" " alt="" coords="298,5,446,47"/>
+<area shape="rect" id="node2" href="$pool__allocator_8h.html" title=" " alt="" coords="5,95,152,136"/>
+<area shape="rect" id="node3" href="$device__allocator_8h.html" title=" " alt="" coords="176,95,363,136"/>
+<area shape="rect" id="node4" href="$host__allocator_8h.html" title=" " alt="" coords="387,95,562,136"/>
+<area shape="rect" id="node5" href="$allocator_8h.html" title=" " alt="" coords="587,95,733,136"/>
 </map>

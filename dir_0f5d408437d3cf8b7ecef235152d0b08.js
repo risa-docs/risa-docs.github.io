@@ -5,15 +5,15 @@ var dir_0f5d408437d3cf8b7ecef235152d0b08 =
     [ "Check.h", "_check_8h.html", "_check_8h" ],
     [ "Coordinates.h", "_coordinates_8h.html", "_coordinates_8h" ],
     [ "DeviceMemoryManager.h", "_device_memory_manager_8h.html", [
-      [ "DeviceMemoryManager", "classglados_1_1cuda_1_1_device_memory_manager.html", "classglados_1_1cuda_1_1_device_memory_manager" ]
+      [ "glados::cuda::DeviceMemoryManager< T, CopyPolicy >", "classglados_1_1cuda_1_1_device_memory_manager.html", "classglados_1_1cuda_1_1_device_memory_manager" ]
     ] ],
     [ "Exception.h", "cuda_2_exception_8h.html", [
-      [ "bad_alloc", "classglados_1_1cuda_1_1bad__alloc.html", "classglados_1_1cuda_1_1bad__alloc" ],
-      [ "invalid_argument", "classglados_1_1cuda_1_1invalid__argument.html", "classglados_1_1cuda_1_1invalid__argument" ],
-      [ "runtime_error", "classglados_1_1cuda_1_1runtime__error.html", "classglados_1_1cuda_1_1runtime__error" ]
+      [ "glados::cuda::bad_alloc", "classglados_1_1cuda_1_1bad__alloc.html", "classglados_1_1cuda_1_1bad__alloc" ],
+      [ "glados::cuda::invalid_argument", "classglados_1_1cuda_1_1invalid__argument.html", "classglados_1_1cuda_1_1invalid__argument" ],
+      [ "glados::cuda::runtime_error", "classglados_1_1cuda_1_1runtime__error.html", "classglados_1_1cuda_1_1runtime__error" ]
     ] ],
     [ "HostMemoryManager.h", "_host_memory_manager_8h.html", [
-      [ "HostMemoryManager", "classglados_1_1cuda_1_1_host_memory_manager.html", "classglados_1_1cuda_1_1_host_memory_manager" ]
+      [ "glados::cuda::HostMemoryManager< T, CopyPolicy >", "classglados_1_1cuda_1_1_host_memory_manager.html", "classglados_1_1cuda_1_1_host_memory_manager" ]
     ] ],
     [ "Launch.h", "_launch_8h.html", "_launch_8h" ],
     [ "Memory.h", "cuda_2_memory_8h.html", "cuda_2_memory_8h" ],

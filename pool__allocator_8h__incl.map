@@ -1,10 +1,10 @@
 <map id="glados/include/glados/bits/pool_allocator.h" name="glados/include/glados/bits/pool_allocator.h">
-<area shape="rect" id="node1" title=" " alt="" coords="281,5,444,47"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,102,72,129"/>
-<area shape="rect" id="node3" title=" " alt="" coords="96,102,195,129"/>
-<area shape="rect" id="node4" title=" " alt="" coords="219,102,306,129"/>
-<area shape="rect" id="node5" title=" " alt="" coords="331,102,395,129"/>
-<area shape="rect" id="node6" title=" " alt="" coords="419,102,511,129"/>
-<area shape="rect" id="node7" title=" " alt="" coords="535,102,595,129"/>
-<area shape="rect" id="node8" href="$memory__layout_8h.html" title=" " alt="" coords="620,95,772,136"/>
+<area shape="rect" id="node1" title=" " alt="" coords="264,5,411,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,102,67,129"/>
+<area shape="rect" id="node3" title=" " alt="" coords="91,102,181,129"/>
+<area shape="rect" id="node4" title=" " alt="" coords="205,102,283,129"/>
+<area shape="rect" id="node5" title=" " alt="" coords="308,102,367,129"/>
+<area shape="rect" id="node6" title=" " alt="" coords="391,102,473,129"/>
+<area shape="rect" id="node7" title=" " alt="" coords="498,102,550,129"/>
+<area shape="rect" id="node8" href="$memory__layout_8h.html" title=" " alt="" coords="574,95,709,136"/>
 </map>

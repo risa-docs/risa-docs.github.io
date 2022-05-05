@@ -13,5 +13,27 @@ var namespaceglados_1_1cuda_1_1detail =
     [ "memcpy_direction< memory_location::device, memory_location::host >", "structglados_1_1cuda_1_1detail_1_1memcpy__direction_3_01memory__location_1_1device_00_01memory__location_1_1host_01_4.html", null ],
     [ "memcpy_direction< memory_location::host, memory_location::device >", "structglados_1_1cuda_1_1detail_1_1memcpy__direction_3_01memory__location_1_1host_00_01memory__location_1_1device_01_4.html", null ],
     [ "memcpy_direction< memory_location::host, memory_location::host >", "structglados_1_1cuda_1_1detail_1_1memcpy__direction_3_01memory__location_1_1host_00_01memory__location_1_1host_01_4.html", null ],
-    [ "unique_ptr", "classglados_1_1cuda_1_1detail_1_1unique__ptr.html", "classglados_1_1cuda_1_1detail_1_1unique__ptr" ]
+    [ "unique_ptr", "classglados_1_1cuda_1_1detail_1_1unique__ptr.html", "classglados_1_1cuda_1_1detail_1_1unique__ptr" ],
+    [ "unique_device_ptr", "namespaceglados_1_1cuda_1_1detail.html#aaa144207455db2ab698c183d89a69b6a", null ],
+    [ "unique_host_ptr", "namespaceglados_1_1cuda_1_1detail.html#af4167219812763a2f7646cddb131be49", null ],
+    [ "Target", "namespaceglados_1_1cuda_1_1detail.html#a302960e1592e6ff1388f67cd6a792ebc", [
+      [ "Device", "namespaceglados_1_1cuda_1_1detail.html#a302960e1592e6ff1388f67cd6a792ebcae0ac20adce6ffee48c7151b070aa5737", null ],
+      [ "Host", "namespaceglados_1_1cuda_1_1detail.html#a302960e1592e6ff1388f67cd6a792ebcac2ca16d048ec66e04bca283eab048ec2", null ]
+    ] ],
+    [ "checkCudaError", "namespaceglados_1_1cuda_1_1detail.html#a5469c200b4850ee034000528a4225b4b", null ],
+    [ "checkCufftError", "namespaceglados_1_1cuda_1_1detail.html#ab23eeca0ec8e99e62f92276d9bcef8a6", null ],
+    [ "checkCusparseError", "namespaceglados_1_1cuda_1_1detail.html#a1f2a2ff32da3ff69e9e8d325868ea2d6", null ],
+    [ "checkNvjpegError", "namespaceglados_1_1cuda_1_1detail.html#a2bc0e32616543dad478fcd36cb9eb6f2", null ],
+    [ "create_3D_parms", "namespaceglados_1_1cuda_1_1detail.html#a3b907852e949427ef28404e9e0540683", null ],
+    [ "getCufftErrorString", "namespaceglados_1_1cuda_1_1detail.html#afd677bf08eee4e9b7e4e453c59022505", null ],
+    [ "getCusparseErrorString", "namespaceglados_1_1cuda_1_1detail.html#aed66c1e9f246e2e5df6a34dc36b120d5", null ],
+    [ "getNvjpegErrorString", "namespaceglados_1_1cuda_1_1detail.html#ac975ade82b2ef5da3d5965ddca2b0285", null ],
+    [ "operator!=", "namespaceglados_1_1cuda_1_1detail.html#af630b2e8535ce7c953f6d6a3335a03b2", null ],
+    [ "operator!=", "namespaceglados_1_1cuda_1_1detail.html#a0ee6ea5da1df413e275d83eab6f8ed22", null ],
+    [ "operator!=", "namespaceglados_1_1cuda_1_1detail.html#a926a1bc27099a623ac8027b693b8b925", null ],
+    [ "operator==", "namespaceglados_1_1cuda_1_1detail.html#ab1676532bccbebdb8b30300ea7fc0237", null ],
+    [ "operator==", "namespaceglados_1_1cuda_1_1detail.html#afc413d554bd8096cae607156060a4362", null ],
+    [ "operator==", "namespaceglados_1_1cuda_1_1detail.html#a01e9ea029872721537634204a79bee24", null ],
+    [ "roundUp", "namespaceglados_1_1cuda_1_1detail.html#a50a349bfbe9eac768ad99c0e600bd50e", null ],
+    [ "throw_error", "namespaceglados_1_1cuda_1_1detail.html#a5b13398e4e00ced4c4242081b6038e26", null ]
 ];

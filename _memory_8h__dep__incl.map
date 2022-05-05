@@ -1,26 +1,26 @@
 <map id="glados/include/glados/Memory.h" name="glados/include/glados/Memory.h">
-<area shape="rect" id="node1" title=" " alt="" coords="1359,5,1522,47"/>
-<area shape="rect" id="node2" href="$cuda_2_memory_8h.html" title=" " alt="" coords="914,95,1077,136"/>
-<area shape="rect" id="node21" href="$cuda__pool__allocator_8t_8cu.html" title=" " alt="" coords="1289,184,1453,225"/>
-<area shape="rect" id="node22" href="$cuda__uninitialized_8t_8cu.html" title=" " alt="" coords="1477,191,1721,218"/>
-<area shape="rect" id="node23" href="$default_2_memory_8h.html" title=" " alt="" coords="1699,95,1862,136"/>
-<area shape="rect" id="node3" href="$_device_memory_manager_8h.html" title=" " alt="" coords="321,184,550,225"/>
-<area shape="rect" id="node10" href="$_template___processor_8h.html" title=" " alt="" coords="794,363,981,419"/>
-<area shape="rect" id="node14" href="$_template___sink_8h.html" title=" " alt="" coords="511,363,698,419"/>
-<area shape="rect" id="node16" href="$_template___source_8h.html" title=" " alt="" coords="290,363,477,419"/>
-<area shape="rect" id="node18" href="$_host_memory_manager_8h.html" title=" " alt="" coords="999,184,1213,225"/>
-<area shape="rect" id="node19" href="$cuda__copy_8t_8cu.html" title=" " alt="" coords="575,191,768,218"/>
-<area shape="rect" id="node20" href="$cuda__fill_8t_8cu.html" title=" " alt="" coords="793,191,974,218"/>
-<area shape="rect" id="node4" href="$risa_2include_2risa_2_r_i_s_a_module_interface_8h.html" title=" " alt="" coords="1003,273,1211,315"/>
-<area shape="rect" id="node9" href="$lib_r_i_s_a___template_2include_2risa_template_2_r_i_s_a_module_interface_8h.html" title=" " alt="" coords="535,273,797,315"/>
-<area shape="rect" id="node5" href="$_r_i_s_a_configuration_8h.html" title=" " alt="" coords="1120,474,1380,501"/>
-<area shape="rect" id="node8" href="$_r_i_s_a_module_interface_helpers_8h.html" title=" " alt="" coords="1005,370,1213,411"/>
-<area shape="rect" id="node6" href="$main_8cpp.html" title=" " alt="" coords="1289,563,1400,590"/>
-<area shape="rect" id="node7" href="$_r_i_s_a_configuration_8cpp.html" title=" " alt="" coords="1046,563,1265,590"/>
-<area shape="rect" id="node12" href="$lib_r_i_s_a___template_8cpp.html" title=" " alt="" coords="480,556,647,597"/>
-<area shape="rect" id="node11" href="$lib_r_i_s_a___template_8h.html" title=" " alt="" coords="250,467,490,508"/>
-<area shape="rect" id="node13" href="$_template___processor_8cu.html" title=" " alt="" coords="795,467,1033,508"/>
-<area shape="rect" id="node15" href="$_template___sink_8cu.html" title=" " alt="" coords="515,467,719,508"/>
-<area shape="rect" id="node17" href="$_template___source_8cu.html" title=" " alt="" coords="5,467,225,508"/>
-<area shape="rect" id="node24" href="$_memory_manager_8h.html" title=" " alt="" coords="1745,184,1944,225"/>
+<area shape="rect" id="node1" title=" " alt="" coords="1278,5,1425,47"/>
+<area shape="rect" id="node2" href="$cuda_2_memory_8h.html" title=" " alt="" coords="869,95,1015,136"/>
+<area shape="rect" id="node21" href="$cuda__pool__allocator_8t_8cu.html" title=" " alt="" coords="1213,184,1362,225"/>
+<area shape="rect" id="node22" href="$cuda__uninitialized_8t_8cu.html" title=" " alt="" coords="1386,191,1602,218"/>
+<area shape="rect" id="node23" href="$default_2_memory_8h.html" title=" " alt="" coords="1585,95,1731,136"/>
+<area shape="rect" id="node3" href="$_device_memory_manager_8h.html" title=" " alt="" coords="331,184,535,225"/>
+<area shape="rect" id="node5" href="$_template___processor_8h.html" title=" " alt="" coords="749,363,921,419"/>
+<area shape="rect" id="node9" href="$_template___sink_8h.html" title=" " alt="" coords="244,363,416,419"/>
+<area shape="rect" id="node11" href="$_template___source_8h.html" title=" " alt="" coords="459,363,631,419"/>
+<area shape="rect" id="node18" href="$_host_memory_manager_8h.html" title=" " alt="" coords="946,184,1138,225"/>
+<area shape="rect" id="node19" href="$cuda__copy_8t_8cu.html" title=" " alt="" coords="559,191,735,218"/>
+<area shape="rect" id="node20" href="$cuda__fill_8t_8cu.html" title=" " alt="" coords="760,191,921,218"/>
+<area shape="rect" id="node4" href="$lib_r_i_s_a___template_2include_2risa_template_2_r_i_s_a_module_interface_8h.html" title=" " alt="" coords="504,273,743,315"/>
+<area shape="rect" id="node13" href="$risa_2include_2risa_2_r_i_s_a_module_interface_8h.html" title=" " alt="" coords="936,273,1127,315"/>
+<area shape="rect" id="node7" href="$lib_r_i_s_a___template_8cpp.html" title=" " alt="" coords="438,556,593,597"/>
+<area shape="rect" id="node6" href="$lib_r_i_s_a___template_8h.html" title=" " alt="" coords="217,467,437,508"/>
+<area shape="rect" id="node8" href="$_template___processor_8cu.html" title=" " alt="" coords="739,467,961,508"/>
+<area shape="rect" id="node10" href="$_template___sink_8cu.html" title=" " alt="" coords="5,467,193,508"/>
+<area shape="rect" id="node12" href="$_template___source_8cu.html" title=" " alt="" coords="462,467,665,508"/>
+<area shape="rect" id="node14" href="$_r_i_s_a_configuration_8h.html" title=" " alt="" coords="985,474,1219,501"/>
+<area shape="rect" id="node17" href="$_r_i_s_a_module_interface_helpers_8h.html" title=" " alt="" coords="999,370,1189,411"/>
+<area shape="rect" id="node15" href="$main_8cpp.html" title=" " alt="" coords="966,563,1065,590"/>
+<area shape="rect" id="node16" href="$_r_i_s_a_configuration_8cpp.html" title=" " alt="" coords="1089,563,1288,590"/>
+<area shape="rect" id="node24" href="$_memory_manager_8h.html" title=" " alt="" coords="1627,184,1801,225"/>
 </map>

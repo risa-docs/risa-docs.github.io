@@ -14,7 +14,7 @@ var classglados_1_1base__ptr =
     [ "get", "classglados_1_1base__ptr.html#a07a83d8be47c1c383dc8bdc3d550a520", null ],
     [ "get_deleter", "classglados_1_1base__ptr.html#a8c2ef33ae72d37e1da12bb3088a18d7d", null ],
     [ "get_deleter", "classglados_1_1base__ptr.html#a7e3ca32a899080942a4444f3244a2f9a", null ],
-    [ "get_underlying", "classglados_1_1base__ptr.html#adbc6e7a0b6ae18880a0c6829eea461a3", null ],
+    [ "get_underlying", "classglados_1_1base__ptr.html#a225cc930540b0e662ad426bfed71c7f6", null ],
     [ "operator bool", "classglados_1_1base__ptr.html#aa0c8a1312bfdec6fe444e914d97b0e00", null ],
     [ "operator=", "classglados_1_1base__ptr.html#aa9a13fb28926f0de032219cb258fe8e7", null ],
     [ "operator=", "classglados_1_1base__ptr.html#a4329669306831351f819fbb538d0907a", null ],

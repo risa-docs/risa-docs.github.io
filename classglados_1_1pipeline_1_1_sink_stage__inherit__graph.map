@@ -1,8 +1,8 @@
 <map id="glados::pipeline::SinkStage&lt; ImageSaver &gt;" name="glados::pipeline::SinkStage&lt; ImageSaver &gt;">
-<area shape="rect" id="node1" title=" " alt="" coords="440,71,639,112"/>
-<area shape="rect" id="node2" href="$classglados_1_1_image_saver.html" title=" " alt="" coords="211,5,367,47"/>
-<area shape="rect" id="node3" title=" " alt="" coords="8,13,135,39"/>
-<area shape="rect" id="node4" href="$classglados_1_1pipeline_1_1_input_side.html" title=" " alt="" coords="185,71,392,112"/>
-<area shape="rect" id="node5" href="$classglados_1_1pipeline_1_1_generic_stage.html" title=" " alt="" coords="197,136,380,177"/>
-<area shape="rect" id="node6" href="$classglados_1_1_observer.html" title=" " alt="" coords="5,143,137,170"/>
+<area shape="rect" id="node1" title=" " alt="" coords="399,71,575,112"/>
+<area shape="rect" id="node2" href="$classglados_1_1_image_saver.html" title=" " alt="" coords="193,5,329,47"/>
+<area shape="rect" id="node3" title=" " alt="" coords="9,13,120,39"/>
+<area shape="rect" id="node4" href="$classglados_1_1pipeline_1_1_input_side.html" title=" " alt="" coords="172,71,351,112"/>
+<area shape="rect" id="node5" href="$classglados_1_1pipeline_1_1_generic_stage.html" title=" " alt="" coords="181,136,342,177"/>
+<area shape="rect" id="node6" href="$classglados_1_1_observer.html" title=" " alt="" coords="5,143,124,170"/>
 </map>

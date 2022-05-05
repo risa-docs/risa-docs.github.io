@@ -1,11 +1,11 @@
 <map id="libRISA_Template/include/risaTemplate/RISAModuleInterface.h" name="libRISA_Template/include/risaTemplate/RISAModuleInterface.h">
-<area shape="rect" id="node1" title=" " alt="" coords="560,5,823,47"/>
-<area shape="rect" id="node2" href="$_template___processor_8h.html" title=" " alt="" coords="703,95,890,151"/>
-<area shape="rect" id="node4" href="$lib_r_i_s_a___template_8cpp.html" title=" " alt="" coords="603,288,769,329"/>
-<area shape="rect" id="node6" href="$_template___sink_8h.html" title=" " alt="" coords="261,95,447,151"/>
-<area shape="rect" id="node8" href="$_template___source_8h.html" title=" " alt="" coords="493,95,679,151"/>
-<area shape="rect" id="node3" href="$lib_r_i_s_a___template_8h.html" title=" " alt="" coords="234,199,474,240"/>
-<area shape="rect" id="node5" href="$_template___processor_8cu.html" title=" " alt="" coords="743,199,981,240"/>
-<area shape="rect" id="node7" href="$_template___sink_8cu.html" title=" " alt="" coords="5,199,209,240"/>
-<area shape="rect" id="node9" href="$_template___source_8cu.html" title=" " alt="" coords="499,199,719,240"/>
+<area shape="rect" id="node1" title=" " alt="" coords="521,5,760,47"/>
+<area shape="rect" id="node2" href="$_template___processor_8h.html" title=" " alt="" coords="653,95,825,151"/>
+<area shape="rect" id="node4" href="$lib_r_i_s_a___template_8cpp.html" title=" " alt="" coords="559,288,714,329"/>
+<area shape="rect" id="node6" href="$_template___sink_8h.html" title=" " alt="" coords="241,95,413,151"/>
+<area shape="rect" id="node8" href="$_template___source_8h.html" title=" " alt="" coords="457,95,629,151"/>
+<area shape="rect" id="node3" href="$lib_r_i_s_a___template_8h.html" title=" " alt="" coords="217,199,437,240"/>
+<area shape="rect" id="node5" href="$_template___processor_8cu.html" title=" " alt="" coords="689,199,910,240"/>
+<area shape="rect" id="node7" href="$_template___sink_8cu.html" title=" " alt="" coords="5,199,193,240"/>
+<area shape="rect" id="node9" href="$_template___source_8cu.html" title=" " alt="" coords="462,199,665,240"/>
 </map>

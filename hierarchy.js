@@ -21,8 +21,8 @@ var hierarchy =
     [ "glados::cuda::device_allocator< T, memory_layout::pointer_1D >", "classglados_1_1cuda_1_1device__allocator_3_01_t_00_01memory__layout_1_1pointer__1_d_01_4.html", null ],
     [ "glados::cuda::device_allocator< T, memory_layout::pointer_2D >", "classglados_1_1cuda_1_1device__allocator_3_01_t_00_01memory__layout_1_1pointer__2_d_01_4.html", null ],
     [ "glados::cuda::device_allocator< T, memory_layout::pointer_3D >", "classglados_1_1cuda_1_1device__allocator_3_01_t_00_01memory__layout_1_1pointer__3_d_01_4.html", null ],
-    [ "glados::cuda::device_deleter", "structglados_1_1cuda_1_1device__deleter.html", null ],
     [ "glados::cuda::detail::device_deleter", "structglados_1_1cuda_1_1detail_1_1device__deleter.html", null ],
+    [ "glados::cuda::device_deleter", "structglados_1_1cuda_1_1device__deleter.html", null ],
     [ "glados::cuda::detail::Direction< Src, Dest >", "structglados_1_1cuda_1_1detail_1_1_direction.html", null ],
     [ "glados::cuda::detail::Direction< Target::Device, Target::Device >", "structglados_1_1cuda_1_1detail_1_1_direction_3_01_target_1_1_device_00_01_target_1_1_device_01_4.html", null ],
     [ "glados::cuda::detail::Direction< Target::Device, Target::Host >", "structglados_1_1cuda_1_1detail_1_1_direction_3_01_target_1_1_device_00_01_target_1_1_host_01_4.html", null ],
@@ -31,7 +31,7 @@ var hierarchy =
     [ "DynamicallyLoadedProcessorStage< implementation_t, implementation_ctor_t, implementation_dtor_t >", "class_dynamically_loaded_processor_stage.html", null ],
     [ "DynamicallyLoadedSinkStage< implementation_t, implementation_ctor_t, implementation_dtor_t >", "class_dynamically_loaded_sink_stage.html", null ],
     [ "DynamicallyLoadedSourceStage< implementation_t, implementation_ctor_t, implementation_dtor_t >", "class_dynamically_loaded_source_stage.html", null ],
-    [ "exception", null, [
+    [ "std::exception", null, [
       [ "glados::cuda::bad_alloc", "classglados_1_1cuda_1_1bad__alloc.html", null ],
       [ "glados::cufft::bad_alloc", "classglados_1_1cufft_1_1bad__alloc.html", null ],
       [ "glados::cusparse::bad_alloc", "classglados_1_1cusparse_1_1bad__alloc.html", null ]
@@ -41,8 +41,8 @@ var hierarchy =
     [ "glados::cuda::host_allocator< T, memory_layout::pointer_1D >", "classglados_1_1cuda_1_1host__allocator_3_01_t_00_01memory__layout_1_1pointer__1_d_01_4.html", null ],
     [ "glados::cuda::host_allocator< T, memory_layout::pointer_2D >", "classglados_1_1cuda_1_1host__allocator_3_01_t_00_01memory__layout_1_1pointer__2_d_01_4.html", null ],
     [ "glados::cuda::host_allocator< T, memory_layout::pointer_3D >", "classglados_1_1cuda_1_1host__allocator_3_01_t_00_01memory__layout_1_1pointer__3_d_01_4.html", null ],
-    [ "glados::cuda::host_deleter", "structglados_1_1cuda_1_1host__deleter.html", null ],
     [ "glados::cuda::detail::host_deleter", "structglados_1_1cuda_1_1detail_1_1host__deleter.html", null ],
+    [ "glados::cuda::host_deleter", "structglados_1_1cuda_1_1host__deleter.html", null ],
     [ "Implementation", null, [
       [ "glados::ImageLoader< Implementation >", "classglados_1_1_image_loader.html", [
         [ "glados::pipeline::SourceStage< ImageLoader >", "classglados_1_1pipeline_1_1_source_stage.html", null ]
@@ -59,7 +59,7 @@ var hierarchy =
     [ "glados::pipeline::InputSide< Implementation::input_type >", "classglados_1_1pipeline_1_1_input_side.html", [
       [ "glados::pipeline::Stage< Implementation >", "classglados_1_1pipeline_1_1_stage.html", null ]
     ] ],
-    [ "invalid_argument", null, [
+    [ "std::invalid_argument", null, [
       [ "glados::cuda::invalid_argument", "classglados_1_1cuda_1_1invalid__argument.html", null ],
       [ "glados::cufft::invalid_argument", "classglados_1_1cufft_1_1invalid__argument.html", null ]
     ] ],
@@ -98,18 +98,18 @@ var hierarchy =
     [ "glados::pool_allocator< T, memory_layout::pointer_3D, InternalAlloc >", "classglados_1_1pool__allocator_3_01_t_00_01memory__layout_1_1pointer__3_d_00_01_internal_alloc_01_4.html", null ],
     [ "glados::pipeline::Port< DataType >", "classglados_1_1pipeline_1_1_port.html", null ],
     [ "glados::Queue< Object >", "classglados_1_1_queue.html", null ],
+    [ "glados::cuda::device_allocator< T, memory_layout::pointer_1D >::rebind< U >", "structglados_1_1cuda_1_1device__allocator_3_01_t_00_01memory__layout_1_1pointer__1_d_01_4_1_1rebind.html", null ],
     [ "glados::cuda::device_allocator< T, memory_layout::pointer_2D >::rebind< U >", "structglados_1_1cuda_1_1device__allocator_3_01_t_00_01memory__layout_1_1pointer__2_d_01_4_1_1rebind.html", null ],
-    [ "glados::cuda::host_allocator< T, memory_layout::pointer_3D >::rebind< U >", "structglados_1_1cuda_1_1host__allocator_3_01_t_00_01memory__layout_1_1pointer__3_d_01_4_1_1rebind.html", null ],
-    [ "glados::pool_allocator< T, memory_layout::pointer_2D, InternalAlloc >::rebind< U >", "structglados_1_1pool__allocator_3_01_t_00_01memory__layout_1_1pointer__2_d_00_01_internal_alloc_01_4_1_1rebind.html", null ],
-    [ "glados::pool_allocator< T, memory_layout::pointer_1D, InternalAlloc >::rebind< U >", "structglados_1_1pool__allocator_3_01_t_00_01memory__layout_1_1pointer__1_d_00_01_internal_alloc_01_4_1_1rebind.html", null ],
-    [ "glados::pool_allocator< T, memory_layout::pointer_3D, InternalAlloc >::rebind< U >", "structglados_1_1pool__allocator_3_01_t_00_01memory__layout_1_1pointer__3_d_00_01_internal_alloc_01_4_1_1rebind.html", null ],
+    [ "glados::cuda::device_allocator< T, memory_layout::pointer_3D >::rebind< U >", "structglados_1_1cuda_1_1device__allocator_3_01_t_00_01memory__layout_1_1pointer__3_d_01_4_1_1rebind.html", null ],
+    [ "glados::cuda::host_allocator< T, memory_layout::pointer_1D >::rebind< U >", "structglados_1_1cuda_1_1host__allocator_3_01_t_00_01memory__layout_1_1pointer__1_d_01_4_1_1rebind.html", null ],
     [ "glados::cuda::host_allocator< T, memory_layout::pointer_2D >::rebind< U >", "structglados_1_1cuda_1_1host__allocator_3_01_t_00_01memory__layout_1_1pointer__2_d_01_4_1_1rebind.html", null ],
+    [ "glados::cuda::host_allocator< T, memory_layout::pointer_3D >::rebind< U >", "structglados_1_1cuda_1_1host__allocator_3_01_t_00_01memory__layout_1_1pointer__3_d_01_4_1_1rebind.html", null ],
     [ "glados::generic::allocator< T, memory_layout::pointer_1D >::rebind< U >", "structglados_1_1generic_1_1allocator_3_01_t_00_01memory__layout_1_1pointer__1_d_01_4_1_1rebind.html", null ],
     [ "glados::generic::allocator< T, memory_layout::pointer_2D >::rebind< U >", "structglados_1_1generic_1_1allocator_3_01_t_00_01memory__layout_1_1pointer__2_d_01_4_1_1rebind.html", null ],
     [ "glados::generic::allocator< T, memory_layout::pointer_3D >::rebind< U >", "structglados_1_1generic_1_1allocator_3_01_t_00_01memory__layout_1_1pointer__3_d_01_4_1_1rebind.html", null ],
-    [ "glados::cuda::host_allocator< T, memory_layout::pointer_1D >::rebind< U >", "structglados_1_1cuda_1_1host__allocator_3_01_t_00_01memory__layout_1_1pointer__1_d_01_4_1_1rebind.html", null ],
-    [ "glados::cuda::device_allocator< T, memory_layout::pointer_3D >::rebind< U >", "structglados_1_1cuda_1_1device__allocator_3_01_t_00_01memory__layout_1_1pointer__3_d_01_4_1_1rebind.html", null ],
-    [ "glados::cuda::device_allocator< T, memory_layout::pointer_1D >::rebind< U >", "structglados_1_1cuda_1_1device__allocator_3_01_t_00_01memory__layout_1_1pointer__1_d_01_4_1_1rebind.html", null ],
+    [ "glados::pool_allocator< T, memory_layout::pointer_1D, InternalAlloc >::rebind< U >", "structglados_1_1pool__allocator_3_01_t_00_01memory__layout_1_1pointer__1_d_00_01_internal_alloc_01_4_1_1rebind.html", null ],
+    [ "glados::pool_allocator< T, memory_layout::pointer_2D, InternalAlloc >::rebind< U >", "structglados_1_1pool__allocator_3_01_t_00_01memory__layout_1_1pointer__2_d_00_01_internal_alloc_01_4_1_1rebind.html", null ],
+    [ "glados::pool_allocator< T, memory_layout::pointer_3D, InternalAlloc >::rebind< U >", "structglados_1_1pool__allocator_3_01_t_00_01memory__layout_1_1pointer__3_d_00_01_internal_alloc_01_4_1_1rebind.html", null ],
     [ "risa::RISAConfiguration", "classrisa_1_1_r_i_s_a_configuration.html", null ],
     [ "RISAModule_Processor< in_t, out_t >", "class_r_i_s_a_module___processor.html", null ],
     [ "RISAModule_Processor< cuda_array< float >, cuda_array< float > >", "class_r_i_s_a_module___processor.html", [
@@ -123,7 +123,7 @@ var hierarchy =
     [ "RISAModule_Source< cuda_array< float > >", "class_r_i_s_a_module___source.html", [
       [ "risa::cuda::Template_Source", "classrisa_1_1cuda_1_1_template___source.html", null ]
     ] ],
-    [ "runtime_error", null, [
+    [ "std::runtime_error", null, [
       [ "glados::cuda::runtime_error", "classglados_1_1cuda_1_1runtime__error.html", null ],
       [ "glados::cufft::runtime_error", "classglados_1_1cufft_1_1runtime__error.html", null ],
       [ "glados::cusparse::runtime_error", "classglados_1_1cusparse_1_1runtime__error.html", null ]
@@ -155,8 +155,8 @@ var hierarchy =
     [ "glados::cufft::detail::type_mapper< cufftDoubleComplex >", "structglados_1_1cufft_1_1detail_1_1type__mapper_3_01cufft_double_complex_01_4.html", null ],
     [ "glados::cufft::detail::type_mapper< cufftDoubleReal >", "structglados_1_1cufft_1_1detail_1_1type__mapper_3_01cufft_double_real_01_4.html", null ],
     [ "glados::cufft::detail::type_mapper< cufftReal >", "structglados_1_1cufft_1_1detail_1_1type__mapper_3_01cufft_real_01_4.html", null ],
-    [ "glados::cuda::unique_ptr< T, Deleter, pitched, loc, pinned >", "classglados_1_1cuda_1_1unique__ptr.html", null ],
     [ "glados::cuda::detail::unique_ptr< T, Deleter, t >", "classglados_1_1cuda_1_1detail_1_1unique__ptr.html", null ],
+    [ "glados::cuda::unique_ptr< T, Deleter, pitched, loc, pinned >", "classglados_1_1cuda_1_1unique__ptr.html", null ],
     [ "glados::cuda::unique_ptr< T, Deleter, false, loc, pinned >", "classglados_1_1cuda_1_1unique__ptr_3_01_t_00_01_deleter_00_01false_00_01loc_00_01pinned_01_4.html", null ],
     [ "glados::cuda::unique_ptr< T, Deleter, true, loc, false >", "classglados_1_1cuda_1_1unique__ptr_3_01_t_00_01_deleter_00_01true_00_01loc_00_01false_01_4.html", null ]
 ];

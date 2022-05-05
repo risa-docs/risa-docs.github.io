@@ -1,4 +1,4 @@
 <map id="risa::cuda::Template_Source" name="risa::cuda::Template_Source">
-<area shape="rect" id="node1" title="This is a template source stage. It must inherit RISAModule_Source of its output type." alt="" coords="15,95,169,136"/>
-<area shape="rect" id="node2" href="$class_r_i_s_a_module___source.html" title=" " alt="" coords="5,5,179,47"/>
+<area shape="rect" id="node1" title="This is a template source stage. It must inherit RISAModule_Source of its output type." alt="" coords="12,95,149,136"/>
+<area shape="rect" id="node2" href="$class_r_i_s_a_module___source.html" title=" " alt="" coords="5,5,156,47"/>
 </map>

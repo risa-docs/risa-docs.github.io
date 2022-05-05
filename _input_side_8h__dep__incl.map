@@ -1,13 +1,13 @@
 <map id="glados/include/glados/pipeline/InputSide.h" name="glados/include/glados/pipeline/InputSide.h">
-<area shape="rect" id="node1" title=" " alt="" coords="392,5,555,47"/>
-<area shape="rect" id="node2" href="$_port_8h.html" title=" " alt="" coords="235,95,397,136"/>
-<area shape="rect" id="node9" href="$_stage_8h.html" title=" " alt="" coords="392,273,555,315"/>
-<area shape="rect" id="node11" href="$_sink_stage_8h.html" title=" " alt="" coords="579,273,741,315"/>
-<area shape="rect" id="node3" href="$_output_side_8h.html" title=" " alt="" coords="233,184,399,225"/>
-<area shape="rect" id="node10" href="$_pipeline_8h.html" title=" " alt="" coords="5,273,168,315"/>
-<area shape="rect" id="node4" href="$_source_stage_8h.html" title=" " alt="" coords="193,273,367,315"/>
-<area shape="rect" id="node5" href="$_r_i_s_a_module_interface_helpers_8h.html" title=" " alt="" coords="261,363,469,404"/>
-<area shape="rect" id="node6" href="$_r_i_s_a_configuration_8h.html" title=" " alt="" coords="235,452,495,479"/>
-<area shape="rect" id="node7" href="$main_8cpp.html" title=" " alt="" coords="215,527,326,553"/>
-<area shape="rect" id="node8" href="$_r_i_s_a_configuration_8cpp.html" title=" " alt="" coords="351,527,569,553"/>
+<area shape="rect" id="node1" title=" " alt="" coords="360,5,507,47"/>
+<area shape="rect" id="node2" href="$_port_8h.html" title=" " alt="" coords="215,95,361,136"/>
+<area shape="rect" id="node9" href="$_stage_8h.html" title=" " alt="" coords="360,273,507,315"/>
+<area shape="rect" id="node11" href="$_sink_stage_8h.html" title=" " alt="" coords="531,273,677,315"/>
+<area shape="rect" id="node3" href="$_output_side_8h.html" title=" " alt="" coords="213,184,363,225"/>
+<area shape="rect" id="node10" href="$_pipeline_8h.html" title=" " alt="" coords="5,273,152,315"/>
+<area shape="rect" id="node4" href="$_source_stage_8h.html" title=" " alt="" coords="177,273,335,315"/>
+<area shape="rect" id="node5" href="$_r_i_s_a_configuration_8h.html" title=" " alt="" coords="213,452,446,479"/>
+<area shape="rect" id="node8" href="$_r_i_s_a_module_interface_helpers_8h.html" title=" " alt="" coords="234,363,425,404"/>
+<area shape="rect" id="node6" href="$main_8cpp.html" title=" " alt="" coords="193,527,292,553"/>
+<area shape="rect" id="node7" href="$_r_i_s_a_configuration_8cpp.html" title=" " alt="" coords="317,527,515,553"/>
 </map>

@@ -1,16 +1,16 @@
 <map id="glados/include/glados/cuda/HostMemoryManager.h" name="glados/include/glados/cuda/HostMemoryManager.h">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,220,47"/>
-<area shape="rect" id="node2" title=" " alt="" coords="183,244,253,271"/>
-<area shape="rect" id="node3" title=" " alt="" coords="67,244,159,271"/>
-<area shape="rect" id="node4" href="$cuda_2_memory_8h.html" title=" " alt="" coords="327,95,413,121"/>
-<area shape="rect" id="node5" title=" " alt="" coords="645,169,722,196"/>
-<area shape="rect" id="node6" title=" " alt="" coords="285,244,340,271"/>
-<area shape="rect" id="node7" title=" " alt="" coords="364,244,424,271"/>
-<area shape="rect" id="node8" href="$_memory_8h.html" title=" " alt="" coords="251,169,385,196"/>
-<area shape="rect" id="node9" href="$_check_8h.html" title=" " alt="" coords="546,169,621,196"/>
-<area shape="rect" id="node10" title=" " alt="" coords="756,244,843,271"/>
-<area shape="rect" id="node11" title=" " alt="" coords="867,244,990,271"/>
-<area shape="rect" id="node12" title=" " alt="" coords="449,244,513,271"/>
-<area shape="rect" id="node13" title=" " alt="" coords="537,244,629,271"/>
-<area shape="rect" id="node14" title=" " alt="" coords="653,244,732,271"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,197,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="174,244,239,271"/>
+<area shape="rect" id="node3" title=" " alt="" coords="67,244,149,271"/>
+<area shape="rect" id="node4" href="$cuda_2_memory_8h.html" title=" " alt="" coords="309,95,387,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="606,169,674,196"/>
+<area shape="rect" id="node6" title=" " alt="" coords="271,244,321,271"/>
+<area shape="rect" id="node7" title=" " alt="" coords="346,244,398,271"/>
+<area shape="rect" id="node8" href="$_memory_8h.html" title=" " alt="" coords="240,169,360,196"/>
+<area shape="rect" id="node9" href="$_check_8h.html" title=" " alt="" coords="512,169,581,196"/>
+<area shape="rect" id="node10" title=" " alt="" coords="709,244,787,271"/>
+<area shape="rect" id="node11" title=" " alt="" coords="811,244,922,271"/>
+<area shape="rect" id="node12" title=" " alt="" coords="422,244,479,271"/>
+<area shape="rect" id="node13" title=" " alt="" coords="504,244,589,271"/>
+<area shape="rect" id="node14" title=" " alt="" coords="614,244,685,271"/>
 </map>
