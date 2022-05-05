@@ -1,0 +1,29 @@
+<map id="glados/include/glados/pipeline/Stage.h" name="glados/include/glados/pipeline/Stage.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1012,5,1175,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="656,95,720,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="1067,393,1127,420"/>
+<area shape="rect" id="node4" href="$_image_8h.html" title=" " alt="" coords="422,244,509,271"/>
+<area shape="rect" id="node19" href="$_subject_8h.html" title=" " alt="" coords="1279,169,1433,196"/>
+<area shape="rect" id="node22" href="$_generic_stage_8h.html" title=" " alt="" coords="1313,95,1434,121"/>
+<area shape="rect" id="node23" href="$_input_side_8h.html" title=" " alt="" coords="1041,244,1135,271"/>
+<area shape="rect" id="node26" href="$_output_side_8h.html" title=" " alt="" coords="949,95,1056,121"/>
+<area shape="rect" id="node5" href="$_memory_pool_8h.html" title=" " alt="" coords="237,319,353,345"/>
+<area shape="rect" id="node7" title=" " alt="" coords="5,393,157,420"/>
+<area shape="rect" id="node10" title=" " alt="" coords="499,393,576,420"/>
+<area shape="rect" id="node13" title=" " alt="" coords="544,319,629,345"/>
+<area shape="rect" id="node14" title=" " alt="" coords="855,393,926,420"/>
+<area shape="rect" id="node15" title=" " alt="" coords="653,319,720,345"/>
+<area shape="rect" id="node16" title=" " alt="" coords="19,319,83,345"/>
+<area shape="rect" id="node17" title=" " alt="" coords="158,319,213,345"/>
+<area shape="rect" id="node18" title=" " alt="" coords="377,319,469,345"/>
+<area shape="rect" id="node6" href="$_singleton_8h.html" title=" " alt="" coords="182,393,277,420"/>
+<area shape="rect" id="node8" title=" " alt="" coords="689,393,831,420"/>
+<area shape="rect" id="node9" title=" " alt="" coords="301,393,387,420"/>
+<area shape="rect" id="node11" title=" " alt="" coords="600,393,664,420"/>
+<area shape="rect" id="node12" title=" " alt="" coords="411,393,474,420"/>
+<area shape="rect" id="node20" title=" " alt="" coords="1299,244,1341,271"/>
+<area shape="rect" id="node21" href="$_observer_8h.html" title=" " alt="" coords="1365,244,1459,271"/>
+<area shape="rect" id="node24" href="$_queue_8h.html" title=" " alt="" coords="896,319,984,345"/>
+<area shape="rect" id="node25" title=" " alt="" coords="950,393,1013,420"/>
+<area shape="rect" id="node27" href="$_port_8h.html" title=" " alt="" coords="973,169,1033,196"/>
+</map>

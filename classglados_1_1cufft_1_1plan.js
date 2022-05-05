@@ -1,0 +1,26 @@
+var classglados_1_1cufft_1_1plan =
+[
+    [ "plan", "classglados_1_1cufft_1_1plan.html#a34010fdf49f7b9bccea62bae50bef5b2", null ],
+    [ "plan", "classglados_1_1cufft_1_1plan.html#a96c02d0b155f7e4368de0dfb10e26662", null ],
+    [ "plan", "classglados_1_1cufft_1_1plan.html#a4c488d7802d01d4690acf1c76e993204", null ],
+    [ "plan", "classglados_1_1cufft_1_1plan.html#acfcd51eee26fd0966ee80ec83ca8432b", null ],
+    [ "plan", "classglados_1_1cufft_1_1plan.html#a884f63412846eba218996d9407a94c12", null ],
+    [ "plan", "classglados_1_1cufft_1_1plan.html#a45e38f0a6cd029aca8122cc71877cd51", null ],
+    [ "plan", "classglados_1_1cufft_1_1plan.html#afd93ef5a097960ff4f6519587f16cf81", null ],
+    [ "~plan", "classglados_1_1cufft_1_1plan.html#a5860ef4b31d3d6e7b08f69b8c74919d8", null ],
+    [ "cufft_exec", "classglados_1_1cufft_1_1plan.html#a374811765b25ff79c6d46c1fdac85cc8", null ],
+    [ "cufft_exec", "classglados_1_1cufft_1_1plan.html#a1ade8eadd7f3bcf01cacca42bb7542fa", null ],
+    [ "cufft_exec", "classglados_1_1cufft_1_1plan.html#aa1afc7dca54533eba2daa3001a25cf65", null ],
+    [ "cufft_exec", "classglados_1_1cufft_1_1plan.html#a6665d0ee7bada75e11bacb7fd9092ec0", null ],
+    [ "cufft_exec", "classglados_1_1cufft_1_1plan.html#afad0a4202ad643fee1946ebe4a5518d9", null ],
+    [ "cufft_exec", "classglados_1_1cufft_1_1plan.html#a5a0ca571046eb8f9b0ee595fde659561", null ],
+    [ "execute", "classglados_1_1cufft_1_1plan.html#a69e24dc2b19eeb44174d8dd582c8f47c", null ],
+    [ "execute", "classglados_1_1cufft_1_1plan.html#a2cc350834b1bd05c1ac5602cb5382485", null ],
+    [ "get", "classglados_1_1cufft_1_1plan.html#a015ac67e119591d7f2153cff4220ca8a", null ],
+    [ "handle_result", "classglados_1_1cufft_1_1plan.html#a000ad41383c3dada1b05d4fb6a0fb755", null ],
+    [ "operator=", "classglados_1_1cufft_1_1plan.html#a017947984e3032f08ac819347c003147", null ],
+    [ "operator=", "classglados_1_1cufft_1_1plan.html#aa7e40f97fe2cbc52a6b347e23ae76813", null ],
+    [ "set_stream", "classglados_1_1cufft_1_1plan.html#a1b3e8461081fdabbaf25312755aa8880", null ],
+    [ "handle_", "classglados_1_1cufft_1_1plan.html#a7ff0826049d48da214b68e9d2c1e017b", null ],
+    [ "valid_", "classglados_1_1cufft_1_1plan.html#aef1af0af005efb45fa55e7a46830774d", null ]
+];

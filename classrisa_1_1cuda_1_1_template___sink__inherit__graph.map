@@ -1,0 +1,4 @@
+<map id="risa::cuda::Template_Sink" name="risa::cuda::Template_Sink">
+<area shape="rect" id="node1" title="This is a template sink stage. It must inherit RISAModule_Sink of its input type." alt="" coords="5,95,193,121"/>
+<area shape="rect" id="node2" href="$class_r_i_s_a_module___sink.html" title=" " alt="" coords="8,5,191,47"/>
+</map>

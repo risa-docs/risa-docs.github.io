@@ -1,0 +1,28 @@
+var namespaceglados =
+[
+    [ "cuda", "namespaceglados_1_1cuda.html", "namespaceglados_1_1cuda" ],
+    [ "cufft", "namespaceglados_1_1cufft.html", "namespaceglados_1_1cufft" ],
+    [ "cusparse", "namespaceglados_1_1cusparse.html", "namespaceglados_1_1cusparse" ],
+    [ "def", "namespaceglados_1_1def.html", "namespaceglados_1_1def" ],
+    [ "generic", "namespaceglados_1_1generic.html", "namespaceglados_1_1generic" ],
+    [ "pipeline", "namespaceglados_1_1pipeline.html", "namespaceglados_1_1pipeline" ],
+    [ "utils", "namespaceglados_1_1utils.html", "namespaceglados_1_1utils" ],
+    [ "base_ptr", "classglados_1_1base__ptr.html", "classglados_1_1base__ptr" ],
+    [ "CircularBuffer", "classglados_1_1_circular_buffer.html", "classglados_1_1_circular_buffer" ],
+    [ "FileObserver", "classglados_1_1_file_observer.html", "classglados_1_1_file_observer" ],
+    [ "Image", "classglados_1_1_image.html", "classglados_1_1_image" ],
+    [ "ImageLoader", "classglados_1_1_image_loader.html", "classglados_1_1_image_loader" ],
+    [ "ImageSaver", "classglados_1_1_image_saver.html", "classglados_1_1_image_saver" ],
+    [ "MemoryPool", "classglados_1_1_memory_pool.html", "classglados_1_1_memory_pool" ],
+    [ "Observer", "classglados_1_1_observer.html", "classglados_1_1_observer" ],
+    [ "pitched_ptr", "classglados_1_1pitched__ptr.html", "classglados_1_1pitched__ptr" ],
+    [ "pool_allocator", "classglados_1_1pool__allocator.html", null ],
+    [ "pool_allocator< T, memory_layout::pointer_1D, InternalAlloc >", "classglados_1_1pool__allocator_3_01_t_00_01memory__layout_1_1pointer__1_d_00_01_internal_alloc_01_4.html", "classglados_1_1pool__allocator_3_01_t_00_01memory__layout_1_1pointer__1_d_00_01_internal_alloc_01_4" ],
+    [ "pool_allocator< T, memory_layout::pointer_2D, InternalAlloc >", "classglados_1_1pool__allocator_3_01_t_00_01memory__layout_1_1pointer__2_d_00_01_internal_alloc_01_4.html", "classglados_1_1pool__allocator_3_01_t_00_01memory__layout_1_1pointer__2_d_00_01_internal_alloc_01_4" ],
+    [ "pool_allocator< T, memory_layout::pointer_3D, InternalAlloc >", "classglados_1_1pool__allocator_3_01_t_00_01memory__layout_1_1pointer__3_d_00_01_internal_alloc_01_4.html", "classglados_1_1pool__allocator_3_01_t_00_01memory__layout_1_1pointer__3_d_00_01_internal_alloc_01_4" ],
+    [ "ptr", "classglados_1_1ptr.html", "classglados_1_1ptr" ],
+    [ "Queue", "classglados_1_1_queue.html", "classglados_1_1_queue" ],
+    [ "Singleton", "classglados_1_1_singleton.html", "classglados_1_1_singleton" ],
+    [ "Subject", "classglados_1_1_subject.html", "classglados_1_1_subject" ],
+    [ "Volume", "classglados_1_1_volume.html", "classglados_1_1_volume" ]
+];

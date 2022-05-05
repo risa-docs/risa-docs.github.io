@@ -1,0 +1,18 @@
+<map id="glados/include/glados/pipeline/Pipeline.h" name="glados/include/glados/pipeline/Pipeline.h">
+<area shape="rect" id="node1" title=" " alt="" coords="225,5,387,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="233,169,310,196"/>
+<area shape="rect" id="node3" title=" " alt="" coords="170,95,234,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="443,319,503,345"/>
+<area shape="rect" id="node5" title=" " alt="" coords="309,95,372,121"/>
+<area shape="rect" id="node6" href="$_generic_stage_8h.html" title=" " alt="" coords="24,95,145,121"/>
+<area shape="rect" id="node10" href="$_port_8h.html" title=" " alt="" coords="396,95,456,121"/>
+<area shape="rect" id="node7" href="$_subject_8h.html" title=" " alt="" coords="7,169,162,196"/>
+<area shape="rect" id="node8" title=" " alt="" coords="18,244,61,271"/>
+<area shape="rect" id="node9" href="$_observer_8h.html" title=" " alt="" coords="85,244,178,271"/>
+<area shape="rect" id="node11" href="$_input_side_8h.html" title=" " alt="" coords="335,169,429,196"/>
+<area shape="rect" id="node12" href="$_queue_8h.html" title=" " alt="" coords="261,244,349,271"/>
+<area shape="rect" id="node13" title=" " alt="" coords="5,319,148,345"/>
+<area shape="rect" id="node14" title=" " alt="" coords="172,319,243,345"/>
+<area shape="rect" id="node15" title=" " alt="" coords="267,319,331,345"/>
+<area shape="rect" id="node16" title=" " alt="" coords="356,319,419,345"/>
+</map>
