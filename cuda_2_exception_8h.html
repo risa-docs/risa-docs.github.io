@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.2"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>RISA: glados/include/glados/cusparse/exception.h File Reference</title>
+<title>RISA: glados/include/glados/cuda/Exception.h File Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -63,7 +63,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('cusparse_2exception_8h.html',''); initResizable(); });
+$(document).ready(function(){initNavTree('cuda_2_exception_8h.html',''); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -84,58 +84,70 @@ $(document).ready(function(){initNavTree('cusparse_2exception_8h.html',''); init
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#namespaces">Namespaces</a> &#124;
-<a href="#func-members">Functions</a> &#124;
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">exception.h File Reference</div></div>
+<a href="#namespaces">Namespaces</a>  </div>
+  <div class="headertitle"><div class="title">Exception.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &lt;exception&gt;</code><br />
 <code>#include &lt;stdexcept&gt;</code><br />
+<code>#include &lt;string&gt;</code><br />
+<code>#include &lt;cuda_runtime.h&gt;</code><br />
 </div><div class="textblock"><div class="dynheader">
-Include dependency graph for exception.h:</div>
+Include dependency graph for Exception.h:</div>
 <div class="dyncontent">
-<div class="center"><img src="cusparse_2exception_8h__incl.png" border="0" usemap="#aglados_2include_2glados_2cusparse_2exception_8h" alt=""/></div>
-<map name="aglados_2include_2glados_2cusparse_2exception_8h" id="aglados_2include_2glados_2cusparse_2exception_8h">
-<area shape="rect" title=" " alt="" coords="21,5,169,47"/>
+<div class="center"><img src="cuda_2_exception_8h__incl.png" border="0" usemap="#aglados_2include_2glados_2cuda_2_exception_8h" alt=""/></div>
+<map name="aglados_2include_2glados_2cuda_2_exception_8h" id="aglados_2include_2glados_2cuda_2_exception_8h">
+<area shape="rect" title=" " alt="" coords="119,5,265,47"/>
 <area shape="rect" title=" " alt="" coords="5,95,83,121"/>
 <area shape="rect" title=" " alt="" coords="107,95,186,121"/>
+<area shape="rect" title=" " alt="" coords="210,95,265,121"/>
+<area shape="rect" title=" " alt="" coords="289,95,399,121"/>
+</map>
+</div>
+</div><div class="textblock"><div class="dynheader">
+This graph shows which files directly or indirectly include this file:</div>
+<div class="dyncontent">
+<div class="center"><img src="cuda_2_exception_8h__dep__incl.png" border="0" usemap="#aglados_2include_2glados_2cuda_2_exception_8hdep" alt=""/></div>
+<map name="aglados_2include_2glados_2cuda_2_exception_8hdep" id="aglados_2include_2glados_2cuda_2_exception_8hdep">
+<area shape="rect" title=" " alt="" coords="276,5,423,47"/>
+<area shape="rect" href="device__allocator_8h.html" title=" " alt="" coords="5,273,192,315"/>
+<area shape="rect" href="host__allocator_8h.html" title=" " alt="" coords="217,273,391,315"/>
+<area shape="rect" href="throw__error_8h.html" title=" " alt="" coords="270,95,429,136"/>
+<area shape="rect" href="unique__ptr_8h.html" title=" " alt="" coords="47,184,201,225"/>
+<area shape="rect" href="sync__policy_8h.html" title=" " alt="" coords="599,184,745,225"/>
+<area shape="rect" href="_utility_8h.html" title=" " alt="" coords="276,184,423,225"/>
+<area shape="rect" href="cuda__copy_8t_8cu.html" title=" " alt="" coords="829,281,1005,307"/>
+<area shape="rect" href="cuda__fill_8t_8cu.html" title=" " alt="" coords="1030,281,1191,307"/>
+<area shape="rect" href="cuda__pool__allocator_8t_8cu.html" title=" " alt="" coords="416,273,565,315"/>
+<area shape="rect" href="cuda__uninitialized_8t_8cu.html" title=" " alt="" coords="589,281,805,307"/>
 </map>
 </div>
 </div>
-<p><a href="cusparse_2exception_8h_source.html">Go to the source code of this file.</a></p>
+<p><a href="cuda_2_exception_8h_source.html">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classglados_1_1cusparse_1_1bad__alloc.html">glados::cusparse::bad_alloc</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classglados_1_1cuda_1_1bad__alloc.html">glados::cuda::bad_alloc</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classglados_1_1cusparse_1_1runtime__error.html">glados::cusparse::runtime_error</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classglados_1_1cuda_1_1invalid__argument.html">glados::cuda::invalid_argument</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classglados_1_1cuda_1_1runtime__error.html">glados::cuda::runtime_error</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
 Namespaces</h2></td></tr>
 <tr class="memitem:namespaceglados"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceglados.html">glados</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:namespaceglados_1_1cusparse"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceglados_1_1cusparse.html">glados::cusparse</a></td></tr>
+<tr class="memitem:namespaceglados_1_1cuda"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceglados_1_1cuda.html">glados::cuda</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:a7873ca9b36a308fa48cf84ed15baade4"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceglados_1_1cusparse.html#a7873ca9b36a308fa48cf84ed15baade4">glados::cusparse::~invalid_argument</a> ()=default</td></tr>
-<tr class="separator:a7873ca9b36a308fa48cf84ed15baade4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:ab4b71f66f03e2a187607ea245a941cae"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classglados_1_1cusparse_1_1bad__alloc.html">glados::cusparse::bad_alloc</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceglados_1_1cusparse.html#ab4b71f66f03e2a187607ea245a941cae">glados::cusparse::invalid_argument</a></td></tr>
-<tr class="separator:ab4b71f66f03e2a187607ea245a941cae"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="dir_2b3fca7a7a2cd4d509e64f38adf8c3d5.html">glados</a></li><li class="navelem"><a class="el" href="dir_183dbafc720857a15fb48bbc681b28b6.html">include</a></li><li class="navelem"><a class="el" href="dir_d2a9bc7801c978c40d924e1f5f6803cb.html">glados</a></li><li class="navelem"><a class="el" href="dir_7ad6d500e46c5d896ab6c740665de1b8.html">cusparse</a></li><li class="navelem"><a class="el" href="cusparse_2exception_8h.html">exception.h</a></li>
-    <li class="footer">Generated on Sun May 8 2022 20:40:11 for RISA by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="navelem"><a class="el" href="dir_2b3fca7a7a2cd4d509e64f38adf8c3d5.html">glados</a></li><li class="navelem"><a class="el" href="dir_183dbafc720857a15fb48bbc681b28b6.html">include</a></li><li class="navelem"><a class="el" href="dir_d2a9bc7801c978c40d924e1f5f6803cb.html">glados</a></li><li class="navelem"><a class="el" href="dir_0f5d408437d3cf8b7ecef235152d0b08.html">cuda</a></li><li class="navelem"><a class="el" href="cuda_2_exception_8h.html">Exception.h</a></li>
+    <li class="footer">Generated on Sun May 8 2022 20:54:00 for RISA by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>

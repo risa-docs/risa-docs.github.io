@@ -4,8 +4,8 @@ var searchData=
   ['empty_1',['empty',['../classglados_1_1pipeline_1_1task__queue.html#a87418221ad0fe292cd7d7aef4352b38c',1,'glados::pipeline::task_queue']]],
   ['event_5fbuf_5flen_5f_2',['EVENT_BUF_LEN_',['../_file_observer_8h.html#a7f7ec4bae44ea4b1ca5d2cc8a2b62c1d',1,'FileObserver.h']]],
   ['event_5fsize_5f_3',['EVENT_SIZE_',['../_file_observer_8h.html#a9c429b21e475b758878d401d3a33560f',1,'FileObserver.h']]],
-  ['exception_2eh_4',['Exception.h',['../cuda_2exception_8h.html',1,'']]],
-  ['exception_2eh_5',['exception.h',['../cufft_2exception_8h.html',1,'(Global Namespace)'],['../cusparse_2exception_8h.html',1,'(Global Namespace)']]],
+  ['exception_2eh_4',['Exception.h',['../cuda_2_exception_8h.html',1,'']]],
+  ['exception_2eh_5',['exception.h',['../cufft_2_exception_8h.html',1,'(Global Namespace)'],['../cusparse_2_exception_8h.html',1,'(Global Namespace)']]],
   ['exec_6',['exec',['../classglados_1_1utils_1_1_shell_handle.html#a588251faa8a9a4bf41bc8cbdeaa80490',1,'glados::utils::ShellHandle']]],
   ['execute_7',['execute',['../classglados_1_1cufft_1_1plan.html#a69e24dc2b19eeb44174d8dd582c8f47c',1,'glados::cufft::plan::execute(I *idata, O *odata) -&gt; void'],['../classglados_1_1cufft_1_1plan.html#a2cc350834b1bd05c1ac5602cb5382485',1,'glados::cufft::plan::execute(I *idata, O *odata, int direction) -&gt; void']]]
 ];
