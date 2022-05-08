@@ -149,7 +149,7 @@ $(document).ready(function(){initNavTree('index.html',''); initResizable(); });
 <li><code>cuda_array&lt;T&gt;</code> for data located in device memory. Again, <code>T</code> can be any plain old data type.</li>
 </ul>
 <p >Having implemented the actual algorithms, your library needs to provide them to the <code>risa</code> base application. For this, it must expose these functions (don't forget <code>extern "C"</code>):</p><ul>
-<li><code>extern "C" std::string <a class="el" href="lib_r_i_s_a___template_8cpp.html#a3937858a194faddf39d6d14b2182abbe">get_library_name()</a></code> -&gt; returns the library name</li>
+<li><code>extern "C" std::string <a class="el" href="lib_r_i_s_a___template_8cpp.html#a3937858a194faddf39d6d14b2182abbe" title="Returns the name of this library.">get_library_name()</a></code> -&gt; returns the library name</li>
 <li><code>extern "C" std::vector&lt;std:vector&lt;std::string&gt;&gt; get_implemented_processors</code> -&gt; returns a list of implemented processors with their corresponding string-encoded input and output types</li>
 <li><code>extern "C" std::vector&lt;std:vector&lt;std::string&gt;&gt; get_implemented_sinks</code> -&gt; returns a list of implemented sinks with their corresponding string-encoded input type</li>
 <li><code>extern "C" std::vector&lt;std:vector&lt;std::string&gt;&gt; get_implemented_sources</code> -&gt; returns a list of implemented sources with their corresponding string-encoded output type</li>
@@ -183,7 +183,7 @@ $(document).ready(function(){initNavTree('index.html',''); initResizable(); });
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Thu May 5 2022 20:15:26 for RISA by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Sun May 8 2022 20:40:11 for RISA by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>
