@@ -48,7 +48,7 @@ var searchData=
   ['create_5ftemplate_5fsource_45',['create_Template_Source',['../lib_r_i_s_a___template_8cpp.html#ad11164d8f774940771ab4284fb5b904b',1,'libRISA_Template.cpp']]],
   ['createdirectory_46',['createDirectory',['../classglados_1_1utils_1_1_file_system_handle.html#a37563e5794108b788af1a917f219e769',1,'glados::utils::FileSystemHandle']]],
   ['createemptyfile_47',['createEmptyFile',['../classglados_1_1utils_1_1_file_system_handle.html#a9ec74174ed8711d58aaeec60bed1d4ac',1,'glados::utils::FileSystemHandle']]],
-  ['cuda_5farray_48',['cuda_array',['../lib_r_i_s_a___template_2include_2risa_template_2_r_i_s_a_module_interface_8h.html#a6d04761ba9d1b1c05b359ef02a14604c',1,'cuda_array():&#160;RISAModuleInterface.h'],['../risa_2include_2risa_2_r_i_s_a_module_interface_8h.html#a6d04761ba9d1b1c05b359ef02a14604c',1,'cuda_array():&#160;RISAModuleInterface.h']]],
+  ['cuda_5farray_48',['cuda_array',['../risa_2include_2risa_2_r_i_s_a_module_interface_8h.html#a6d04761ba9d1b1c05b359ef02a14604c',1,'cuda_array():&#160;RISAModuleInterface.h'],['../lib_r_i_s_a___template_2include_2risa_template_2_r_i_s_a_module_interface_8h.html#a6d04761ba9d1b1c05b359ef02a14604c',1,'cuda_array():&#160;RISAModuleInterface.h']]],
   ['cuda_5fcopy_2et_2ecu_49',['cuda_copy.t.cu',['../cuda__copy_8t_8cu.html',1,'']]],
   ['cuda_5ffill_2et_2ecu_50',['cuda_fill.t.cu',['../cuda__fill_8t_8cu.html',1,'']]],
   ['cuda_5fpool_5fallocator_2et_2ecu_51',['cuda_pool_allocator.t.cu',['../cuda__pool__allocator_8t_8cu.html',1,'']]],

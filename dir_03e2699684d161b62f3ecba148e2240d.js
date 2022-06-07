@@ -1,30 +1,12 @@
 var dir_03e2699684d161b62f3ecba148e2240d =
 [
-    [ "GenericStage.h", "_generic_stage_8h.html", [
-      [ "glados::pipeline::GenericStage", "classglados_1_1pipeline_1_1_generic_stage.html", "classglados_1_1pipeline_1_1_generic_stage" ]
-    ] ],
-    [ "InputSide.h", "_input_side_8h.html", [
-      [ "glados::pipeline::InputSide< InputType >", "classglados_1_1pipeline_1_1_input_side.html", "classglados_1_1pipeline_1_1_input_side" ]
-    ] ],
-    [ "OutputSide.h", "_output_side_8h.html", [
-      [ "glados::pipeline::OutputSide< OutputType >", "classglados_1_1pipeline_1_1_output_side.html", "classglados_1_1pipeline_1_1_output_side" ]
-    ] ],
-    [ "Pipeline.h", "_pipeline_8h.html", [
-      [ "glados::pipeline::Pipeline", "classglados_1_1pipeline_1_1_pipeline.html", "classglados_1_1pipeline_1_1_pipeline" ]
-    ] ],
-    [ "Port.h", "_port_8h.html", [
-      [ "glados::pipeline::Port< DataType >", "classglados_1_1pipeline_1_1_port.html", "classglados_1_1pipeline_1_1_port" ]
-    ] ],
-    [ "SinkStage.h", "_sink_stage_8h.html", [
-      [ "glados::pipeline::SinkStage< ImageSaver >", "classglados_1_1pipeline_1_1_sink_stage.html", "classglados_1_1pipeline_1_1_sink_stage" ]
-    ] ],
-    [ "SourceStage.h", "_source_stage_8h.html", [
-      [ "glados::pipeline::SourceStage< ImageLoader >", "classglados_1_1pipeline_1_1_source_stage.html", "classglados_1_1pipeline_1_1_source_stage" ]
-    ] ],
-    [ "Stage.h", "_stage_8h.html", [
-      [ "glados::pipeline::Stage< Implementation >", "classglados_1_1pipeline_1_1_stage.html", "classglados_1_1pipeline_1_1_stage" ]
-    ] ],
-    [ "task_queue.h", "task__queue_8h.html", [
-      [ "glados::pipeline::task_queue< TaskT >", "classglados_1_1pipeline_1_1task__queue.html", "classglados_1_1pipeline_1_1task__queue" ]
-    ] ]
+    [ "GenericStage.h", "_generic_stage_8h.html", "_generic_stage_8h" ],
+    [ "InputSide.h", "_input_side_8h.html", "_input_side_8h" ],
+    [ "OutputSide.h", "_output_side_8h.html", "_output_side_8h" ],
+    [ "Pipeline.h", "_pipeline_8h.html", "_pipeline_8h" ],
+    [ "Port.h", "_port_8h.html", "_port_8h" ],
+    [ "SinkStage.h", "_sink_stage_8h.html", "_sink_stage_8h" ],
+    [ "SourceStage.h", "_source_stage_8h.html", "_source_stage_8h" ],
+    [ "Stage.h", "_stage_8h.html", "_stage_8h" ],
+    [ "task_queue.h", "task__queue_8h.html", "task__queue_8h" ]
 ];

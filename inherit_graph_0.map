@@ -1,3 +1,7 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$class_dynamically_loaded_processor_stage.html" title=" " alt="" coords="5,5,199,76"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,89,92,116"/>
+<area shape="rect" id="node2" href="$classglados_1_1base__ptr.html" title=" " alt="" coords="154,49,293,90"/>
+<area shape="rect" id="node5" href="$structglados_1_1cuda_1_1detail_1_1copy__ftor.html" title=" " alt="" coords="140,114,307,155"/>
+<area shape="rect" id="node3" href="$classglados_1_1pitched__ptr.html" title=" " alt="" coords="367,5,517,61"/>
+<area shape="rect" id="node4" href="$classglados_1_1ptr.html" title=" " alt="" coords="355,85,529,126"/>
 </map>

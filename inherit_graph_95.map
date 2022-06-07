@@ -1,4 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$class_r_i_s_a_module___source.html" title=" " alt="" coords="5,5,156,47"/>
-<area shape="rect" id="node2" href="$classrisa_1_1cuda_1_1_template___source.html" title="This is a template source stage. It must inherit RISAModule_Source of its output type." alt="" coords="204,5,341,47"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,149,73"/>
+<area shape="rect" id="node2" href="$classglados_1_1cuda_1_1invalid__argument.html" title=" " alt="" coords="197,5,335,47"/>
+<area shape="rect" id="node3" href="$classglados_1_1cufft_1_1invalid__argument.html" title=" " alt="" coords="199,71,333,112"/>
 </map>

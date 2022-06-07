@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['parameterset_5f_0',['parameterSet_',['../structrisa_1_1_r_i_s_a_configuration_1_1_stage_descriptor.html#a4a0e1ae156c3a7a3b2b720acd5111693',1,'risa::RISAConfiguration::StageDescriptor::parameterSet_()'],['../classglados_1_1pipeline_1_1_source_stage.html#addb7dbabed9c15d1f9ef37bdaa10a55e',1,'glados::pipeline::SourceStage::parameterSet_()']]],
+  ['parameterset_5f_0',['parameterSet_',['../classglados_1_1pipeline_1_1_source_stage.html#addb7dbabed9c15d1f9ef37bdaa10a55e',1,'glados::pipeline::SourceStage::parameterSet_()'],['../structrisa_1_1_r_i_s_a_configuration_1_1_stage_descriptor.html#a4a0e1ae156c3a7a3b2b720acd5111693',1,'risa::RISAConfiguration::StageDescriptor::parameterSet_()']]],
   ['path_5f_1',['path_',['../classglados_1_1pipeline_1_1_source_stage.html#a886450f280f3c60f0d408fdfe22bb5a4',1,'glados::pipeline::SourceStage']]],
   ['pinned_5fmemory_2',['pinned_memory',['../classglados_1_1cuda_1_1unique__ptr_3_01_t_00_01_deleter_00_01true_00_01loc_00_01false_01_4.html#a910de2e43bcc28b6571538b3a767be2a',1,'glados::cuda::unique_ptr&lt; T, Deleter, true, loc, false &gt;::pinned_memory()'],['../classglados_1_1cuda_1_1unique__ptr_3_01_t_00_01_deleter_00_01false_00_01loc_00_01pinned_01_4.html#ae68e8bdac39b98ad51f820eea6384e6d',1,'glados::cuda::unique_ptr&lt; T, Deleter, false, loc, pinned &gt;::pinned_memory()']]],
   ['pipeline_5f_3',['pipeline_',['../classrisa_1_1_r_i_s_a_configuration.html#aebc6c6da15d9bed6d51f7fcbdac574e9',1,'risa::RISAConfiguration']]],
